@@ -1,0 +1,6 @@
+main {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0)), url(/src/weather.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: auto;
+  }
